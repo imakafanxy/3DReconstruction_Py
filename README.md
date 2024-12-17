@@ -7,6 +7,18 @@
 
 This project provides a complete pipeline to capture, filter, merge, and mesh point cloud data to generate 3D models using **Intel RealSense** cameras and the **Open3D** library.
 
+Documentation for 3D Reconstruction with RealSense and Open3D Program
+
+Written by: MyeongJun, Kim in Handong Global University IILAB
+
+Date: Updated 2024-12-17
+
+Program: Python
+
+IDE/Compiler: Visual Studio Code
+
+OS: Win11
+
 ---
 
 ## **Table of Contents**
