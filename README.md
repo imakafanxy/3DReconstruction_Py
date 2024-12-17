@@ -46,7 +46,7 @@ The 3D reconstruction pipeline consists of **four key steps**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3DReconstruction.git
+   git clone https://github.com/yourusername/3DReconstruction_Py.git
    cd 3DReconstruction
    ```
 
